@@ -99,10 +99,10 @@ Models delay in actuator response using a **first-order ODE**:
 
 ## 👨‍💻 Author(s)
 
-- Mohammed Soliman – 202402280  
-- Omer Okasha – 202400591  
-- Youssef Fakhry – 202401128  
-- Karim Islam – 202400656  
+- Mohammed Soliman
+- Omer Okasha 
+- Youssef Fakhry 
+- Karim Islam 
 
 ---
 
